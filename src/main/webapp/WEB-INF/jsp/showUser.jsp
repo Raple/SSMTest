@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试
+${user.user_name}
 </body>
 </html>
